@@ -1,0 +1,10 @@
+vinoth kumar working with hcl
+skills are selenium appium hello hava
+automation test hello 
+work location is hello bangalore
+hometown  hello world
+trying to find word hello and substitute word for hello
+substitution to be in sixth line
+totally there would be ten lines
+read line by line and search for hello
+this is the last line in this file
